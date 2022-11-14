@@ -1,0 +1,8 @@
+{
+	"name": "Notifier",
+	"router": "index.js test.js",
+	"priority": 10,
+	"dependencies": {
+		"slimbot": "*"
+	}
+}
